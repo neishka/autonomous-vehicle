@@ -5,6 +5,6 @@ In this repository we would be sharing our demo code of our Capstone Project. A 
 # Table of Content 
 #### 1. Traffic Light Detector/Classifier 
 #### 2. Lane Detction 
-![Alt Text](https://github.com/harrykarwasra/autonomous-vehicle/blob/master/overview.gif = 250x250)
+![Alt Text](https://github.com/harrykarwasra/autonomous-vehicle/blob/master/overview.gif| width=50)
 #### 3. PID Control 
 #### 4. Road Segmentation

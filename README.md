@@ -7,4 +7,4 @@ In this repository we would be sharing our demo code of our Capstone Project. A 
 #### 2. Path Planning
 #### 3. 2D-LiDAR Mapping 
 #### 2. Lane Detction 
-<img src="https://github.com/harrykarwasra/autonomous-vehicle/blob/master/images/overview.gif" width="350" height="150" />
+<img src="https://github.com/harrykarwasra/autonomous-vehicle/blob/master/images/overview.gif" width="300" height="220" />
